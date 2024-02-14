@@ -1,0 +1,92 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  font-family: The Macabre;
+  font-size: 18px;
+  
+}
+
+h1 {
+    font-family: The Macabre;
+    font-size: 40px;
+  
+}
+
+h3 {
+  font-family: The Macabre;
+  font-size: 34px;
+}
+
+
+p {
+  font-family: The Macabre;
+  font-size: 24px;
+}
+
+@font-face {
+  font-family: The Macabre;
+  src: url("The Macabre.otf");
+}
+
+body {
+  color:white;
+  background-color: black;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.Blood_Manipulation {
+  border: solid 3px;
+  border-color: white;
+  color: red;
+}
+
+.Limitless_Six_Eyes {
+  border: solid 3px;
+  border-color: white;
+  color: mediumpurple;
+}
+
+.Ten_Shadows_Technique {
+  border: solid 3px;
+  border-color: white;
+  color: lightblue;
+}
+
+.Mimicry_Rika {
+  border: solid 3px;
+  border-color: white;
+  color: hotpink;
+}
+
+.Star_Rage {
+  border: solid 3px;
+  border-color: white;
+  color: blanchedalmond;
+}
+a {
+  color: lightblue;
+}
+
+.limitless_six_eyes {
+  color: mediumpurple;
+}
+
+.ten_shadows_tech {
+  color: lightblue;
+}
+
+.mimicry {
+  color: hotpink
+}
+.blood {
+  color: red;
+}
+.Star {
+  color: blanchedalmond;
+}
+
+
